@@ -7,7 +7,7 @@
 **GitHub Copilot Dev Days** is a global, in-person user group initiative taking place from **March 15th to May 15th 2026**. The series brings together developers, enthusiasts, and local tech communities to explore the power of GitHub Copilot through practical, hands-on experiences.
 
 ### Event Link
-https://luma.com/apu0743b
+[GitHub Copilot Dev Days | Mumbai](https://luma.com/apu0743b)
 
 ### 📚 Resources available
  **👉 [copilot-dev-days.github.io](https://copilot-dev-days.github.io)** — the central site where all GitHub Copilot Dev Days hands-on workshops are published. The site displays every available workshop options.
