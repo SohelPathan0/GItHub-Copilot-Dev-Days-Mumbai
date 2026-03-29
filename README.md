@@ -66,8 +66,7 @@ Each participant received a certificate with a unique ID, along with a QR code f
 
 You can verify a certificate using the link format below:
 
-```plaintext
-[GitHub Copilot Dev Days | Mumbai](https://sohelpathan0.github.io/GItHub-Copilot-Dev-Days-Mumbai/)```
+[GitHub Copilot Dev Days | Mumbai](https://sohelpathan0.github.io/GItHub-Copilot-Dev-Days-Mumbai/)
 
 Or simply scan the QR code printed on the certificate.
 
@@ -109,9 +108,7 @@ Or simply scan the QR code printed on the certificate.
 
 Once deployed, your verification page will be available at:
 
-```plaintext
 [GitHub Copilot Dev Days | Mumbai](https://sohelpathan0.github.io/GItHub-Copilot-Dev-Days-Mumbai/)
-```
 
 ---
 
