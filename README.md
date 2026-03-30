@@ -32,7 +32,7 @@ The event covered practical, real-world usage of GitHub Copilot across multiple 
 | Detail | Info |
 |--------|------|
 | 📍 **Location** | Microsoft Office Mumbai, India |
-| 📅 **Date** | March 2026 |
+| 📅 **Date** | 28th March 2026 |
 | 🏢 **Format** | In-person |
 | 👥 **Total Participants** | 83 Developers |
 | 🎯 **Focus** | AI-assisted development with GitHub Copilot |
