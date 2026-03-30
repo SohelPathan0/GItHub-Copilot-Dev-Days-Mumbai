@@ -8,7 +8,7 @@
 
 ![GitHub Copilot Dev Days](https://img.shields.io/badge/GitHub%20Copilot-Dev%20Days-0078d4?style=for-the-badge&logo=github&logoColor=white)
 ![Location](https://img.shields.io/badge/📍%20Location-Mumbai%2C%20India-50e6ff?style=for-the-badge)
-![Date](https://img.shields.io/badge/📅%20Date-28th-March%202026-0d1b2e?style=for-the-badge)
+![Date](https://img.shields.io/badge/📅%20Date-28thMarch%202026-0d1b2e?style=for-the-badge)
 ![Participants](https://img.shields.io/badge/👥%20Participants-83%20Developers-4ade80?style=for-the-badge)
 
 **A community-led, hands-on event exploring AI-powered development with GitHub Copilot**
