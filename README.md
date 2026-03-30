@@ -56,25 +56,34 @@ The sessions focused on practical, real-world usage of GitHub Copilot across mul
 
 ---
 
-## 🎯 What We Covered
+## What We Covered at GitHub Copilot Dev Days Mumbai
 
-- 🤖 **GitHub Copilot Fundamentals** — Code completions, inline suggestions, and Copilot Chat
-- 💻 **Copilot in VS Code** — Agent Mode, context engineering, custom instructions, MCP
-- 🖥️ **Copilot CLI** — Terminal-first workflows and command-line productivity
-- 🧠 **Prompt Engineering** — Writing effective prompts for better, context-aware output
-- 🔧 **Real-world Workflows** — Debugging, documentation, and refactoring with AI assistance
-- 🛠️ **Hands-on Workshop** — Guided coding exercises using GitHub Copilot in live sessions
+GitHub Copilot Dev Days Mumbai focused on delivering practical, hands-on experience to help developers effectively use AI-assisted coding in real-world scenarios. The sessions were designed to ensure participants could immediately apply what they learned across different tools, workflows, and environments.
+
+### 🚀 Key Topics
+
+* 🤖 **Supercharge Your Coding with GitHub Copilot**
+  Learned the fundamentals, including code completions, inline suggestions, and Copilot Chat to speed up development.
+
+* 💻 **GitHub Copilot: Your AI Companion for Every Workflow**
+  Explored how Copilot integrates with IDEs like VS Code, including advanced features such as Agent Mode, context engineering, custom instructions, and MCP.
+
+* 🖥️ **GitHub Copilot CLI**
+  Discovered how to enhance terminal-based workflows and improve command-line productivity using Copilot.
+
+* 🧠 **Prompt Engineering**
+  Practiced writing effective prompts to generate accurate, context-aware outputs.
+
+* 🔧 **Real-world Workflows**
+  Applied Copilot for debugging, documentation, and refactoring in everyday development tasks.
+
+* 🛠️ **Hands-on Workshop**
+  Participated in guided, live coding exercises to reinforce learning through practical implementation.
+
+* 🎓 **GitHub Certification**
+  Learned about certification paths and resources to validate GitHub and Copilot expertise.
 
 ---
-
-## 📁 Repository Structure
-
-```
-GItHub-Copilot-Dev-Days-Mumbai/
-├── index.html        # Certificate verification page (GitHub Pages)
-├── data.json         # Participant certificate registry (83 entries)
-└── README.md         # This file
-```
 
 ---
 
@@ -129,54 +138,6 @@ Certificate (PDF / Image)
 
 ---
 
-## 👨‍💻 Participants (83 Developers)
-
-| ID | Name | ID | Name |
-|---|---|---|---|
-| GCDM-001 | Susmit Vengurlekar | GCDM-002 | Pooja Gupta |
-| GCDM-003 | Mohd Nauman | GCDM-004 | Swati Mishra |
-| GCDM-005 | Hemant Verma | GCDM-006 | Harshal Mandawade |
-| GCDM-007 | Prachi Sawant | GCDM-008 | Shubham Gawade |
-| GCDM-009 | Charan Sattu | GCDM-010 | Asmita Lawale |
-| GCDM-011 | Vaishali Veeraswami Sirimalla | GCDM-012 | Vaishnavi Veeraswami Sirimalla |
-| GCDM-013 | Deepika Mishra | GCDM-014 | Sanjay Sargam |
-| GCDM-015 | Sachin Yadav | GCDM-016 | Khushi Desai |
-| GCDM-017 | Rahul Kotian | GCDM-018 | Nishant Dattatray Gaikwad |
-| GCDM-019 | Ansh Dubey | GCDM-020 | Neeti Parmar |
-| GCDM-021 | Ameer Khan | GCDM-022 | Javed Shaikh |
-| GCDM-023 | Srinivas Bhamidipati | GCDM-024 | Sneha Pal |
-| GCDM-025 | Soumya Kanchi | GCDM-026 | Renita Saldanha |
-| GCDM-027 | Prathamesh Patil | GCDM-028 | Chetan Bhasney |
-| GCDM-029 | Chaitanya Sharma | GCDM-030 | Ankur Gosar |
-| GCDM-031 | Dhruv Khandelwal | GCDM-032 | Sakshi Godse |
-| GCDM-033 | Apeksha Ojha | GCDM-034 | Swati Shinde |
-| GCDM-035 | Aakash Prajapati | GCDM-036 | Sathvik Shetty |
-| GCDM-037 | Amishi Verma | GCDM-038 | Isha Sairaj Samant |
-| GCDM-039 | Shraddha Gajanan Desai | GCDM-040 | Krisha Narkar |
-| GCDM-041 | Prashant Shirke | GCDM-042 | Ramyashree Shetty |
-| GCDM-043 | Niharika Sonkar | GCDM-044 | Saloni Palai |
-| GCDM-045 | Jidnyasa Chandrashekhar Patil | GCDM-046 | Salman Kadaya |
-| GCDM-047 | Hetanshi Vora | GCDM-048 | Aditi Patil |
-| GCDM-049 | Sakshi Chavan | GCDM-050 | Rajshree Dandge |
-| GCDM-051 | Isheka Singh | GCDM-052 | Maria Kazi |
-| GCDM-053 | Namrata Gawade | GCDM-054 | Deepesh Patil |
-| GCDM-055 | Dakshata Dalvi | GCDM-056 | Dhruvi Jain |
-| GCDM-057 | Vanshika Anam | GCDM-058 | Sara Pawar |
-| GCDM-059 | Aanchal More | GCDM-060 | Prajnyashree Giri |
-| GCDM-061 | Samruddhi Sandeep Gopalkar | GCDM-062 | Natasha Saldanha |
-| GCDM-063 | Sayali Bhanage | GCDM-064 | Avani Parab |
-| GCDM-065 | Sanchita Pandey | GCDM-066 | Abhineya |
-| GCDM-067 | Kshitij Datar | GCDM-068 | Sanjeet Chougule |
-| GCDM-069 | Kapil Yadav | GCDM-070 | Anjali Jagtap |
-| GCDM-071 | Arnav Pratap Singh | GCDM-072 | Saurabh Sharma |
-| GCDM-073 | Krupa Mistry | GCDM-074 | Prem Pagar |
-| GCDM-075 | Mrunali Patil | GCDM-076 | Simon Dias |
-| GCDM-077 | Ishan Karande | GCDM-078 | Aniket Kumar |
-| GCDM-079 | Sheetal Pandrekar | GCDM-080 | Preet Shah |
-| GCDM-081 | Sohel Pathan | GCDM-082 | Harman Saini |
-| GCDM-083 | Satyam Kakade | | |
-
----
 
 ## 🔗 Useful Links
 
