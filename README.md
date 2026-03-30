@@ -163,7 +163,7 @@ Feel free to fork and adapt it for your own GitHub Copilot Dev Days event.
 
 <div align="center">
 
-*Powered by Microsoft &nbsp;|&nbsp; GitHub*
+***Powered by Microsoft &nbsp;|&nbsp; GitHub***
 
 **Thank you to all 83 participants who made GitHub Copilot Dev Days Mumbai a success! 🚀**
 
