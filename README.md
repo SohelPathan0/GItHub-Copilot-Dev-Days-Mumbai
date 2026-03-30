@@ -13,7 +13,7 @@
 
 **A community-led, hands-on event exploring AI-powered development with GitHub Copilot**
 
-*Organised by **Microsoft Student Ambassador** × **Dear Azure — Azure India***
+*Organised by <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/87e63550-95d1-470c-ac36-cdfa3edd7f9f" /> × <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/21baa34b-7627-466f-a9c3-bedc97dfd1e7" />*
 
 </div>
 
