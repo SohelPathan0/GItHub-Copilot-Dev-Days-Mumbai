@@ -71,9 +71,6 @@ GitHub Copilot Dev Days Mumbai focused on delivering practical, hands-on experie
 * 🖥️ **GitHub Copilot CLI**
   Discovered how to enhance terminal-based workflows and improve command-line productivity using Copilot.
 
-* 🧠 **Prompt Engineering**
-  Practiced writing effective prompts to generate accurate, context-aware outputs.
-
 * 🔧 **Real-world Workflows**
   Applied Copilot for debugging, documentation, and refactoring in everyday development tasks.
 
