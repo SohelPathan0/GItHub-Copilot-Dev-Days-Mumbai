@@ -21,9 +21,16 @@
 
 ## 📌 About the Event
 
-**GitHub Copilot Dev Days Mumbai** was a hands-on, in-person, community-led event focused on helping developers explore real-world AI-assisted coding using **GitHub Copilot**. Part of the global **GitHub Copilot Dev Days** series, this event brought together 83 developers from across Mumbai to learn, build, and connect.
+**GitHub Copilot Dev Days | Mumbai** was a hands-on, in-person, community-led event focused on helping developers explore real-world AI-assisted coding using GitHub Copilot. As part of the **global GitHub Copilot Dev Days series**, the event brought together 83 developers from across Mumbai to learn, build, and connect.
 
-The event covered practical, real-world usage of GitHub Copilot across multiple IDEs, workflows, and languages — giving every attendee skills they could apply immediately after the event.
+The sessions focused on practical, real-world usage of GitHub Copilot across multiple IDEs, workflows, and programming languages—equipping attendees with skills they could immediately apply in their day-to-day development work.
+
+**Key topics covered during the event included:**
+
+* **Supercharge your coding with GitHub Copilot**
+* **GitHub Copilot CLI**
+* **GitHub Certification**
+* **GitHub Copilot: Your AI companion for every workflow**
 
 ---
 
