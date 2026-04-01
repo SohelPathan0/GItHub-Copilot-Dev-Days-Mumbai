@@ -1,19 +1,21 @@
 # GitHub Copilot Dev Days | Mumbai, Organised by Microsoft Student Ambassadors and Dear Azure - Azure India, Powered by Microsoft and GitHub
 <img width="900" height="900" alt="image" src="https://github.com/user-attachments/assets/53c3f36d-63d4-404c-aaad-6ca419111e11" />
 
-
+<div align="center">
+  
 # 🤖 GitHub Copilot Dev Days | Mumbai
+
+</div>
 
 <div align="center">
 
 ![GitHub Copilot Dev Days](https://img.shields.io/badge/GitHub%20Copilot-Dev%20Days-0078d4?style=for-the-badge&logo=github&logoColor=white)
-![Location](https://img.shields.io/badge/📍%20Location-Mumbai%2C%20India-50e6ff?style=for-the-badge)
+![Location](https://img.shields.io/badge/📍%20Location-Microsoft_Office_Mumbai%2C%20India-50e6ff?style=for-the-badge)
 ![Date](https://img.shields.io/badge/📅%20Date-28thMarch%202026-0d1b2e?style=for-the-badge)
-![Participants](https://img.shields.io/badge/👥%20Participants-83%20Developers-4ade80?style=for-the-badge)
 
 **A community-led, hands-on event exploring AI-powered development with GitHub Copilot**
 
-*Organised by <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/87e63550-95d1-470c-ac36-cdfa3edd7f9f" /> × <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/21baa34b-7627-466f-a9c3-bedc97dfd1e7" />*
+*Organised by <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/87e63550-95d1-470c-ac36-cdfa3edd7f9f" /> × <img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/21baa34b-7627-466f-a9c3-bedc97dfd1e7" />*
 
 </div>
 
@@ -27,10 +29,10 @@ The sessions focused on practical, real-world usage of GitHub Copilot across mul
 
 **Key topics covered during the event included:**
 
-* **Supercharge your coding with GitHub Copilot**
+* **GitHub Copilot: Your AI companion for every workflow**
 * **GitHub Copilot CLI**
 * **GitHub Certification**
-* **GitHub Copilot: Your AI companion for every workflow**
+* **Supercharge your coding with GitHub Copilot** 
 
 ---
 
@@ -44,15 +46,6 @@ The sessions focused on practical, real-world usage of GitHub Copilot across mul
 | 👥 **Total Participants** | 83 Developers |
 | 🎯 **Focus** | AI-assisted development with GitHub Copilot |
 | 🌐 **Event Series** | GitHub Copilot Dev Days (Global) |
-
----
-
-## 👥 Organisers
-
-| | Community Organisers | |
-|---|---|---|
-| <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/87e63550-95d1-470c-ac36-cdfa3edd7f9f" /> | **Microsoft Student Ambassador** | Organizer |
-| <img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/21baa34b-7627-466f-a9c3-bedc97dfd1e7" />| **Dear Azure — Azure India** | In Association With |
 
 ---
 
@@ -79,8 +72,6 @@ GitHub Copilot Dev Days Mumbai focused on delivering practical, hands-on experie
 
 * 🎓 **GitHub Certification**
   Learned about certification paths and resources to validate GitHub and Copilot expertise.
-
----
 
 ---
 
@@ -113,9 +104,9 @@ Certificate (PDF / Image)
                                       ↓
                         Looks up certificate ID
                                       ↓
-                 ✅ Shows name, event, role, status
-                           OR
-                 ❌ Certificate not found
+                      ✅ Shows name, event, role, status
+                                      OR
+                         ❌ Certificate not found
 ```
 
 ### Certificate Record Format (`data.json`)
@@ -132,9 +123,6 @@ Certificate (PDF / Image)
   ]
 }
 ```
-
----
-
 
 ## 🔗 Useful Links
 
